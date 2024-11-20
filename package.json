@@ -10,6 +10,9 @@
   "author": "vinx",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "mongoose": "^8.1.1",
+    "validator": "^13.12.0"
   }
 }
